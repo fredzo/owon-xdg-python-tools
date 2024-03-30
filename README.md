@@ -39,7 +39,7 @@ Generated a BIN file from the provided 406 Mhz Cospas/Sarsat beacon frame
 This bin file can be loaded in an Owon XDG or Multicomp MP75xxx
 Arbitrary waveform generator.
 
-The generated .bin file can be loaded in Wavefor Editor or copied in the generator via a USB stick :
+The generated .bin file can be loaded in Waveform Editor or copied in the generator via a USB stick :
 <img width="80%" src="./docs/waveform-editor.png" />
 
 
