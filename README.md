@@ -45,7 +45,7 @@ Here is a demonstration of this script :
 - Channel 1 is set to PSK modulation from external source.
 - Carrier is a 35MHz sine wave.
 - The Quansheng UV-K5-8 is used to monitor the generated signal.
-[![406 tx demo](https://img.youtube.com/vi/Wtf-RoALTTo/0.jpg)](https://www.youtube.com/watch?v=Wtf-RoALTTo)] 
+[![406 tx demo](https://img.youtube.com/vi/Wtf-RoALTTo/0.jpg)](https://www.youtube.com/watch?v=Wtf-RoALTTo)
 
 ## Original files from James @baldengineer
 ### mp750290_csv_to_bin.py
@@ -58,17 +58,6 @@ Sample files of a 1 MHz Sine Wave
 ### program_csv_via_SCPI_mp750290.py
 Using `pyvisa` this script loads the waveform memory with a CSV file. 
 WIP : not working (crashes the generator).
-
-
-<!-- BUILD AND INSTALL -->
-## Build And Install
-
-### Build
-
-To build the project, you just have to run **Build** command in PlatformIO.
-  ```sh
-  Build
-  ```
 
 
 <!-- ROADMAP -->
