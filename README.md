@@ -29,7 +29,7 @@
 
 This project provides a set of Python scripts used to work with <a href="https://www.owon.com.hk/products_owon_xdg2000_series_2-ch_arbitrary_waveform_generator">Owon XDG / Multicomp MP75xxx </a> Abitrary Waveform Generators.
 
-It is based on the work of [James @baldengineer on element14](community.element14.com/challenges-projects/element14-presents/workbenchwednesdays/w/documents/23206/160-mhz-arbitrary-waveform-generator-review---workbench-wednesdays-44?CommentId=eb6b685d-1705-4b3f-a9cd-d44dcebba150).
+It is based on the work of [James @baldengineer on element14](https://community.element14.com/challenges-projects/element14-presents/workbenchwednesdays/w/documents/23206/160-mhz-arbitrary-waveform-generator-review---workbench-wednesdays-44?CommentId=eb6b685d-1705-4b3f-a9cd-d44dcebba150).
 
 
 <!-- USAGE EXAMPLES -->
